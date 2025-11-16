@@ -1,4 +1,4 @@
-# EX - 4 Auditing Cloud Activity Using AWS CloudTrail
+# Auditing Cloud Activity Using AWS CloudTrail
 
 ## Aim
 
